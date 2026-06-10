@@ -1,0 +1,8 @@
+{
+  "name": "Loop Live",
+  "description": "تطبيق IPTV مخصص للهاتف وشاشات التلفزيون لعرض قنوات البث المباشر Xtream وحجم مشغل قابل للتعديل وتحكم سلس.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
